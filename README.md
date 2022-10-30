@@ -1,4 +1,6 @@
 # niwaj
+本系统是用户房屋建筑装修系统的后端开发
+
 This application was generated using JHipster 4.0.8, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.0.8](https://jhipster.github.io/documentation-archive/v4.0.8).
 
 ## Development
